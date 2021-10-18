@@ -1,1 +1,2 @@
 Learn how to perform Git PUSH and PULL requests through GitHub Desktop and the Command-Line.
+A commit message written and "Commit to fix-typo-imp" is clicked.
